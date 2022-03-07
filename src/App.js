@@ -26,7 +26,7 @@ function App() {
     //   </header>
     // </div>
     <>
-      <Header />
+      <Header title="To-Do List"/>
       <Footer />
     </>
   );
